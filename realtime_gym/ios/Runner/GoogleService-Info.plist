@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>79459458360-0qe1duc4543m98sj5hl2tv6lnh2p0nsi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.79459458360-0qe1duc4543m98sj5hl2tv6lnh2p0nsi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCB8Bi77MlyX933r1Np53UOXBBFFwmCveM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>79459458360</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.developeek.realtimeGym</string>
+	<key>PROJECT_ID</key>
+	<string>gymple-c8711</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gymple-c8711.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:79459458360:ios:efdfceba327466eaf2f5cd</string>
+</dict>
+</plist>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "79459458360",
+    "firebase_url": "https://gymple-c8711-default-rtdb.firebaseio.com",
+    "project_id": "gymple-c8711",
+    "storage_bucket": "gymple-c8711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79459458360:android:70a6cb7d81f99f65f2f5cd",
+        "android_client_info": {
+          "package_name": "com.developeek.realtime_gym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79459458360-us7etsu59n29n9vj8rfh5c73d64i8h5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSzhyQPv4-JMc2aA2QBdddeH9oTMz4Rl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79459458360-us7etsu59n29n9vj8rfh5c73d64i8h5g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79459458360-0qe1duc4543m98sj5hl2tv6lnh2p0nsi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.developeek.realtimeGym"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
